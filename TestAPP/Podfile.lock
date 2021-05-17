@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Alamofire-Synchronous (4.0.0):
+    - Alamofire (~> 4.0)
+  - GoSwiftyM3U8 (1.0.0)
+  - SwiftLint (0.40.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire-Synchronous
+  - GoSwiftyM3U8
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Alamofire-Synchronous
+    - GoSwiftyM3U8
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Alamofire-Synchronous: eedf1e6e961c3795a63c74990b3f7d9fbfac7e50
+  GoSwiftyM3U8: 24c6ca77a150fc7f0cf17895ff11c9e8ff1e4d87
+  SwiftLint: 4154893c73a4c52d6240195507eb7a3e3c64087e
+
+PODFILE CHECKSUM: ad7e52ca933e3c4a163873138fb6c0e741a9c0ca
+
+COCOAPODS: 1.10.1

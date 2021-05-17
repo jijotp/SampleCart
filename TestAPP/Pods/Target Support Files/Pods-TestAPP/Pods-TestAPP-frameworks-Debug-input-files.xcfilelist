@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TestAPP/Pods-TestAPP-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Alamofire-Synchronous/Alamofire_Synchronous.framework
+${BUILT_PRODUCTS_DIR}/GoSwiftyM3U8/GoSwiftyM3U8.framework
